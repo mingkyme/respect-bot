@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# 저작권이 무서워요 ㅠㅠ
+/music
+
+# 토큰 값이 있습니다.
+/password
